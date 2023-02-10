@@ -1,6 +1,6 @@
 {
   "name": "react-native-multiplier-component",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "test",
   "main": "dist/commonjs/index.js",
   "module": "dist/module/index.js",
